@@ -1,0 +1,8 @@
+id=Fluid4Magisk
+name=Fluid4Magisk
+version=v1.2.1-c
+versionCode=64
+author=JemyZhang
+description=navigation gestures app
+support=
+minMagisk=17000
